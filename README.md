@@ -1,3 +1,11 @@
-Goal is to develop an application that can monitor incoming gmail and when an email is received from a business requiring manual activation, process the email and click the activate offer link automatically
+Working with the gmail API in Python
 
-- gmail API
+Steps:
+
+1.  create new Google developers console project
+2.  enable the gmail API
+3.  create credentials
+        - public
+        - OAuth 2.0
+4.  
+5.  write/configure python program
